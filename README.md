@@ -14,7 +14,7 @@ The Open DIICSU project team provides relevant information for some courses, and
 
 | 中南大学编码 Code in CSU system | 中文名称 Chinese name | 英文名称 English name | Open CSU所用代码 Code in OpenCSU |
 | --- | --- | --- | --- |
-| 7801 | 土木工程 | Civil Engineering |  |
+| 7801 | 土木工程 | Civil Engineering | CE |
 | 7802 | 计算机科学与技术 | Computing | CM | 
 | 7803 | 机械设计制造及其自动化 | Mechnical Engineering | ME |
 | 7804 | 交通设备与控制工程 | Mechnical Engineering with Transportation | MT |
