@@ -35,11 +35,9 @@ $\Delta T$ 注意温度是上升（+）还是下降（-）
 ## 热膨胀
 热膨胀系数是温度每升高一个单位时，物体较原先膨胀的比率。由于物体的大小可以用一个方向的尺寸（长度）或体积衡量，实际应用中，有两种主要的热膨胀系数，分别是：
 
-线性热膨胀系数（coefficient of linear thermal expansion，线胀系数）
+线性热膨胀系数（coefficient of linear thermal expansion，线胀系数）${\displaystyle \alpha ={\frac {1}{L}}\cdot {\frac {\mathrm {d} L}{\mathrm {d} T}}\approx {\frac {1}{L}}\cdot {\frac {\Delta L}{\Delta T}}}$
 
-$${\displaystyle \alpha ={\frac {1}{L}}\cdot {\frac {\mathrm {d} L}{\mathrm {d} T}}\approx {\frac {1}{L}}\cdot {\frac {\Delta L}{\Delta T}}}$$
-
-和体积热膨胀系数(其中下标$p$表示保持压强不变。)
+和体积热膨胀系数(其中下标 $p$ 表示保持压强不变。)
 
 $${\displaystyle \gamma ={\frac {1}{V_{0}}}\left({\frac {\partial V}{\partial T}}\right)_{p}}$$
 
@@ -69,7 +67,7 @@ $$Q = m c \Delta T$$
 
 $$m = nM$$
 
-其中$m$是物质质量， $n$ 是物质的量， $M$ 是物质的摩尔质量。
+其中 $m$ 是物质质量， $n$ 是物质的量， $M$ 是物质的摩尔质量。
 
 $$Q = nM c \Delta T = n (Mc) \Delta T = n C \Delta T$$
 
@@ -93,7 +91,7 @@ $$Q = \pm mL$$
 
 $$H = \frac{dQ}{dT} = kA\frac{T_H - T_C}{L}$$
 
- $H$ 是热流速（heat current），热传导率（thermal conductivity）$k$取决于材料，单位长度温差（temperature difference per unit length）为 $\frac{T_H - T_C}{L}$ ， $A$ 为材料的横截面积。
+ $H$ 是热流速（heat current），热传导率（thermal conductivity） $k$ 取决于材料，单位长度温差（temperature difference per unit length）为 $\frac{T_H - T_C}{L}$ ， $A$ 为材料的横截面积。
 
 ## 热对流
 
@@ -112,7 +110,7 @@ $$H = Ae \sigma T^4$$
 
 斯特藩-玻尔兹曼常数（Stefan–Boltzmann constant）记作  $\sigma= 5.67037442 \times 10^{-8} W/(m^2 \cdot K^4)$ 。
 
-发射面面积（Area of emitting surface）为 $A$ ，表面反射率（Emissivity of surface） $0 <e <1$ 。 $T$ 为开氏温标
+发射面面积（Area of emitting surface）为 $A$ ，表面反射率（Emissivity of surface） $0<e<1$  。 $T$ 为开氏温标
 
 # 物质的分子性质
 
@@ -123,11 +121,11 @@ $$H = Ae \sigma T^4$$
 
 ## 摩尔数与阿伏伽德罗常量
 
-1摩尔是指含有 $6.02*10^{23}$ 的物质的量基本实体。阿伏伽德罗常量 $N_A = 6.02*10^{23}$ 。
+1摩尔是指含有 $6.02\times 10^{23}$ 的物质的量基本实体。阿伏伽德罗常量 $N_A = 6.02\times 10^{23}$ 。
 
 $$M = N_Am$$
 
- $M$ 是物质的摩尔质量，也就是1摩尔的该物质的质量， $N_A$ 是阿伏伽德罗常量， $m$ 是该物质单个分子的量。
+$M$ 是物质的摩尔质量，也就是1摩尔的该物质的质量， $N_A$ 是阿伏伽德罗常量， $m$ 是该物质单个分子的量。
 
 # 理想气体的动力学分子模型
 
@@ -156,6 +154,8 @@ $$Z_i = \frac{v_{ix}\Delta t}{2l_x}$$
 设分子受到的平均作用力为 $\overline{F_i'}$ ,那么器壁受到的平均作用力为 $\overline{F_i}$
 
 $$\overline{F_i'}\Delta t = Z_i \Delta P_{ix} = \frac{v_{ix}\Delta t}{2l_1}\times (-2m_0V_{ix}) = -\frac{m_0 v_{ix}^2\Delta t}{l_1}$$
+
+
 
 即：
 
@@ -207,7 +207,7 @@ $$v_{mp} = \sqrt{\frac{2kT}{m}}= \sqrt{\frac{2RT}{M}} , v_{av} = \sqrt{\frac{8kT
 
 ### 内能
 
-内能（internal energy），用$U$表示，是物体的所有分子的所有自由度上的能量总和。
+内能（internal energy），用 $U$ 表示，是物体的所有分子的所有自由度上的能量总和。
 
 如果气体的自由度为 $i$ ， $1\ mol$ 理想气体的内能 $U_{mol}$ 是：
 
@@ -241,7 +241,7 @@ $$\Delta U = Q - W$$
 
 p-V图是一条竖直的线。热量满足以下关系（其中 $C_{V,m}$ 是等体摩尔热容）：
 
-$$Q = \int _{T_1}^{T_2} n C_{V,m} dT = n C_{V,m} (T_2 - T_1)$$
+$$Q = \int_{T_1}^{T_2} n C_{V,m} dT = n C_{V,m} (T_2 - T_1)$$
 
 $$W = 0,\ \ \Delta U = Q - 0 = Q = n C_{V,m} (T_2 - T_1)$$
 
@@ -259,7 +259,7 @@ p-V 是一条水平线。
 
 $$W = \int _{V_1}^{V_2} p dV = p (V_2 - V_1)$$
 
-$$Q = \int _{T_1}^{T_2} n C_{p,m} dT = n C_{p,m} \Delta T = W + \Delta U = p (V_2 - V_1) + n C_{V,m} \Delta T = nR\Delta T + n C_{V,m} \Delta T = n(R + C_{V,m})\Delta T$$
+$$Q = \int_{T_1}^{T_2} n C_{p,m} dT = n C_{p,m} \Delta T = W + \Delta U = p (V_2 - V_1) + n C_{V,m} \Delta T = nR\Delta T + n C_{V,m} \Delta T = n(R + C_{V,m})\Delta T$$
 
 $$C_{p,m} = C_{V,m}+R, \gamma = \frac{C_{p,m}}{C_{V,m}} = \frac{i+2}{i}$$
 
