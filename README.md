@@ -12,15 +12,15 @@ This website is under construction and more information will be released in the 
 
 ## 2. 快速链接（按照专业分类）Quick links (categorized by major)
 
-7801土木工程 Civil Engineering
+[7801土木工程 Civil Engineering](https://github.com/AlghaPorthos/OpenDIICSU/blob/main/Quick%20links%20of%20each%20major/7801_CE.md)
 
-7802计算机科学与技术 Computing
+[7802计算机科学与技术 Computing](https://github.com/AlghaPorthos/OpenDIICSU/blob/main/Quick%20links%20of%20each%20major/7802_CM.md)
 
-7803机械设计制造及其自动化 Mechanical Engineering
+[7803机械设计制造及其自动化 Mechanical Engineering](https://github.com/AlghaPorthos/OpenDIICSU/blob/main/Quick%20links%20of%20each%20major/7803_ME.md)
 
-7804交通设备与控制工程 Mechanical Engineering with Transportation
+[7804交通设备与控制工程 Mechanical Engineering with Transportation](https://github.com/AlghaPorthos/OpenDIICSU/blob/main/Quick%20links%20of%20each%20major/7804_MT.md)
 
-7805数学与应用数学 Mathmatics and Applied Mathmatics
+[7805数学与应用数学 Mathmatics and Applied Mathmatics](https://github.com/AlghaPorthos/OpenDIICSU/blob/main/Quick%20links%20of%20each%20major/7805_AM.md)
 
 
 ## 3. 专业代码 Codes of Each Major
