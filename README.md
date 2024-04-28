@@ -50,19 +50,19 @@ Please note that the courses in each semaster may vary among different grades.
 
 In this semester, the course list for all majors is the same.
 
-| 课程序号 Labels of courses | 是否开设 土木/计科/机械/交设/应数 Offered in CE/CM/ME/MT/AM or not| 
-| --- | --- | 
-| DI11001 - English for Academic Skills I | 是 Yes |
-| DI11003 - Project (Civil) | 是 Yes |
-| DI11006 - Project (Mechanical) | 是 Yes |
-| DI11005 - Project (Mathematics) | 是 Yes |
-| DI11004 - Project (Computing) | 是 Yes |
-| DI11007 - Calculus for Science and Engineering | 是 Yes |
-| 【中方课程】军事理论 | 是 Yes |
-| 【中方课程】军事技能 | 是 Yes |
-| 【中方课程】体育(一) | 是 Yes |
-| 【中方课程】新生课 | 是 Yes |
-| 【中方课程】思想道德修养与法律基础 | 是 Yes |
+| 课程序号 Labels of courses | 课程类型 Course Type | 是否开设 土木/计科/机械/交设/应数 Offered in CE/CM/ME/MT/AM or not| 
+| --- | --- | --- | 
+| DI11001 - English for Academic Skills I | 英方专业课程 British Course | 是 Yes |
+| DI11003 - Project (Civil) | 英方项目课程 British Project | 是 Yes |
+| DI11006 - Project (Mechanical) | 英方项目课程 British Project | 是 Yes |
+| DI11005 - Project (Mathematics)  | 英方项目课程 British Project | 是 Yes |
+| DI11004 - Project (Computing) | 英方项目课程 British Project | 是 Yes |
+| DI11007 - Calculus for Science and Engineering | 英方专业课程 British Course | 是 Yes |
+| 军事理论 | 中方课程 Chinese Course | 是 Yes |
+| 军事技能 | 中方课程 Chinese Course | 是 Yes |
+| 体育(一) | 中方课程 Chinese Course | 是 Yes |
+| 新生课 | 中方课程 Chinese Course | 是 Yes |
+| 思想道德修养与法律基础 | 中方课程 Chinese Course | 是 Yes |
 
 
 ## 4.2. 第一学年第二学期 Sem. 2 of Year 1
@@ -71,21 +71,22 @@ In this semester, the course list for all majors is the same.
 
 In this semester, the course list of MT and ME are the same.
 
-| 课程序号 Labels of courses | 是否开设 土木 Offered in CE or not | 是否开设 计科 Offered in CM or not | 是否开设 机械/交设 Offered in ME/MT or not| 是否开设 应数 Offered in AM or not | 
-| --- | --- | --- | --- | --- | 
-| DI11002 - English for Academic Skills II | 是 Yes | 是 Yes | 是 Yes | 是 Yes | 
-| DI12001 - Calculus II | | 是 Yes | | 是 Yes | 
-| DI12003 - Mechanics | 是 Yes | | 是 Yes | |
-| DI12004 - Civil Engineering Project II (with English) | 是 Yes | | | | 
-| DI12005 - Proof and Number Theory - Pure Maths |   |  | | 是 Yes|
-| DI12006 - Statistics (with English) |  | | | 是 Yes | 
-| DI12008 - Thermodynamics |  | | 是 Yes | | 
-| DI12009 Java Programming (with English) ||是 Yes ||
-| DI12010 Elementary Data Structures and Algorithms ||是 Yes ||
-| DI12011 - Mechanical Engineering Project II |  | | 是 Yes | | 
-| DI12??? - 结构行为与动力学  |是 Yes |||
-| 【中方课程】工程制图与数字化表达   |是 Yes |||
-| 【中方课程】体育(二) | 是 Yes | 是 Yes | 是 Yes | 是 Yes | 
-| 【中方课程】大学生心理健康教育 | 是 Yes | 是 Yes | 是 Yes | 是 Yes | 
+| 课程序号 Labels of courses |  课程类型 Course Type | 是否开设 土木 Offered in CE or not | 是否开设 计科 Offered in CM or not | 是否开设 机械/交设 Offered in ME/MT or not| 是否开设 应数 Offered in AM or not | 
+| --- | --- | --- | --- | --- | --- | 
+| DI11002 - English for Academic Skills II  | 英方专业课程 British Course | 是 Yes | 是 Yes | 是 Yes | 是 Yes | 
+| DI12001 - Calculus II  | 英方专业课程 British Course | | 是 Yes | | 是 Yes | 
+| DI12003 - Mechanics  | 英方专业课程 British Course | 是 Yes | | 是 Yes | |
+| DI12004 - Civil Engineering Project II (with English)  | 英方项目课程 British Project | 是 Yes | | | | 
+| DI12005 - Proof and Number Theory - Pure Maths  | 英方专业课程 British Course |   |  | | 是 Yes|
+| DI12006 - Statistics (with English) | |  | | | 是 Yes | 
+| DI12008 - Thermodynamics || 英方专业课程 British Course   | | 是 Yes | | 
+| DI12009 - Java Programming (with English) | ||是 Yes ||
+| DI12010 - Elementary Data Structures and Algorithms | ||是 Yes ||
+| DI12011 - Mechanical Engineering Project II | 英方项目课程 British Project |  | | 是 Yes | | 
+| DI12??? - 结构行为与动力学 | 中方课程 Chinese Course   |是 Yes |||
+| 工程制图与数字化表达  | 中方课程 Chinese Course  |是 Yes |||
+| 工程制图  | 中方课程 Chinese Course  ||是 Yes ||
+| 体育(二) | 中方课程 Chinese Course | 是 Yes | 是 Yes | 是 Yes | 是 Yes | 
+| 大学生心理健康教育| 中方课程 Chinese Course  | 是 Yes | 是 Yes | 是 Yes | 是 Yes | 
 
 
