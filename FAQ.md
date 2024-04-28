@@ -12,7 +12,7 @@ You can send an email to 2543035@dundee.ac.uk, or raise it in **Issues**.
 
 # OpenDIICSU 不是什么？What cannot OpenDIICSU do?
 
-## 1. OpenDIICSU 不是发表原创研究的场所 OpenDIICSU is not a place to publish original research
+## 1. OpenDIICSU 不是发表原创研究的场所 OpenDIICSU is not a place to publish your recent research
 
 ## 2. OpenDIICSU 不是新闻的收集处 OpenDIICSU is not a news gathering place
 
