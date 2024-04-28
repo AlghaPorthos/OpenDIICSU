@@ -6,6 +6,10 @@
 
 Hello, this is the **Open DIICSU** project team, aiming to break down the information barriers of courses. 
 
+本项目组的工作语言包含简体中文（普通话）和英语。
+
+The working languages of this project team include Simplified Chinese (Mandarin) and English.
+
 本网站正在建设中，更多信息将会在日后发布。
 
 This website is under construction and more information will be released in the future.
