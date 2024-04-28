@@ -37,7 +37,7 @@ $\Delta T$ 注意温度是上升（+）还是下降（-）
 
 线性热膨胀系数（coefficient of linear thermal expansion，线胀系数）
 
-$$\alpha = \frac {1}{L}}\cdot {\frac {\mathrm {d} L}{\mathrm {d} T} \approx \frac {1}{L}}\cdot {\frac {\Delta L}{\Delta T}$$
+$$\alpha = \frac {1}{L}\cdot {\frac {\mathrm {d} L}{\mathrm {d} T} \approx \frac {1}{L}}\cdot \frac {\Delta L}{\Delta T}$$
 
 和体积热膨胀系数(其中下标 $p$ 表示保持压强不变。
 
