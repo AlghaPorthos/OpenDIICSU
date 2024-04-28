@@ -20,7 +20,7 @@ This website is under construction and more information will be released in the 
 
 7804交通设备与控制工程 Mechnical Engineering with Transportation
 
-7805数学与应用数学 Applied Mathematics
+7805数学与应用数学 Mathmatics and Applied Mathmatics
 
 
 ## 3. 专业代码 Codes of Each Major
