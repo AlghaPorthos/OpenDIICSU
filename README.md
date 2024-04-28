@@ -59,6 +59,11 @@ In this semester, the course list of MT and ME are the same.
 | DI12006 - Statistics (with English) |  | | | 是 Yes | 
 | DI12008 - Thermodynamics |  | | 是 Yes | | 
 | DI12011 - Mechanical Engineering Project II |  | | 是 Yes | | 
+| DI12??? - 结构行为与动力学  |是 Yes |||
+| DI12??? 数据结构和算法概论 ||是 Yes ||
+| DI12??? Java程序设计 ||是 Yes ||
+| 【中方课程】工程制图与数字化表达   |是 Yes |||
 | 【中方课程】体育(二) | 是 Yes | 是 Yes | 是 Yes | 是 Yes | 
 | 【中方课程】大学生心理健康教育 | 是 Yes | 是 Yes | 是 Yes | 是 Yes | 
+
 
