@@ -16,9 +16,9 @@ This website is under construction and more information will be released in the 
 
 7802计算机科学与技术 Computing
 
-7803机械设计制造及其自动化 Mechnical Engineering
+7803机械设计制造及其自动化 Mechanical Engineering
 
-7804交通设备与控制工程 Mechnical Engineering with Transportation
+7804交通设备与控制工程 Mechanical Engineering with Transportation
 
 7805数学与应用数学 Mathmatics and Applied Mathmatics
 
