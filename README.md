@@ -75,6 +75,7 @@ In this semester, the course list of MT and ME are the same.
 | --- | --- | --- | --- | --- | --- | 
 | DI11002 - English for Academic Skills II  | 英方专业课程 British Course | 是 Yes | 是 Yes | 是 Yes | 是 Yes | 
 | DI12001 - Calculus II  | 英方专业课程 British Course | | 是 Yes | | 是 Yes | 
+| DI12002 - Structural Behaviour and Design | 中方课程 Chinese Course   |是 Yes |||
 | DI12003 - Mechanics  | 英方专业课程 British Course | 是 Yes | | 是 Yes | |
 | DI12004 - Civil Engineering Project II (with English)  | 英方项目课程 British Project | 是 Yes | | | | 
 | DI12005 - Proof and Number Theory - Pure Maths  | 英方专业课程 British Course |   |  | | 是 Yes|
@@ -83,7 +84,6 @@ In this semester, the course list of MT and ME are the same.
 | DI12009 - Java Programming (with English) | 英方项目课程 British Project ||是 Yes ||
 | DI12010 - Elementary Data Structures and Algorithms | 英方专业课程 British Course ||是 Yes ||
 | DI12011 - Mechanical Engineering Project II | 英方项目课程 British Project |  | | 是 Yes | | 
-| DI12??? - 结构行为与动力学 | 中方课程 Chinese Course   |是 Yes |||
 | 工程制图与数字化表达  | 中方课程 Chinese Course  |是 Yes |||
 | 工程制图  | 中方课程 Chinese Course  || |是 Yes|
 | 体育(二) | 中方课程 Chinese Course | 是 Yes | 是 Yes | 是 Yes | 是 Yes | 
