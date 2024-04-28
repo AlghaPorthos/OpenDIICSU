@@ -30,12 +30,12 @@ In this semester, the course list for all majors is the same.
 
 | 课程序号 Labels of courses | 是否开设 CE/CM/ME/MT/AM | 
 | --- | --- | 
-| DI11001 - English for Academic Skills I ( SEM 1 22/23 ) | 是 Yes |
-| DI11003 - Project (Civil) ( SEM 1 22/23 ) | 是 Yes |
-| DI11006 - Project (Mechanical) ( SEM 1 22/23 ) | 是 Yes |
-| DI11005 - Project (Mathematics) ( SEM 1 22/23 ) | 是 Yes |
-| DI11004 - Project (Computing) ( SEM 1 22/23 ) | 是 Yes |
-| DI11007 - Calculus for Science and Engineering ( SEM 1 22/23 ) | 是 Yes |
+| DI11001 - English for Academic Skills I | 是 Yes |
+| DI11003 - Project (Civil) | 是 Yes |
+| DI11006 - Project (Mechanical) | 是 Yes |
+| DI11005 - Project (Mathematics) | 是 Yes |
+| DI11004 - Project (Computing) | 是 Yes |
+| DI11007 - Calculus for Science and Engineering | 是 Yes |
 | 【中方课程】军事理论 | 是 Yes |
 | 【中方课程】军事技能 | 是 Yes |
 | 【中方课程】体育(一) | 是 Yes |
