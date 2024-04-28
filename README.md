@@ -53,7 +53,7 @@ In this semester, the course list of MT and ME are the same.
 | --- | --- | --- | --- | --- | 
 | DI11002 - English for Academic Skills II | 是 Yes | 是 Yes | 是 Yes | 是 Yes | 
 | DI12001 - Calculus II | 否 No | 是 Yes | 否 No | 是 Yes | 
-| DI12003 - Mechanics | 是 Yes | 否 No | 是 Yes | 否 No |
+| DI12003 - Mechanics | 是 Yes | | 是 Yes | |
 | DI12004 - Civil Engineering Project II (with English) | 是 Yes | | | | 
 | DI12005 - Proof and Number Theory - Pure Maths |   |  | | 是 Yes|
 | DI12006 - Statistics (with English) |  | | | 是 Yes | 
