@@ -67,14 +67,16 @@ OpenDIICSU 接受赞助或者其他支持。您可以通过如下途径为 OpenD
 3. 提供自己的以 $\LaTeX$ 格式或者 $Markdown$ 格式的笔记
 4. 提供自己的高质量的手写笔记（扫描件，或者PDF文件，或者OneNote文件，或者图片文件）
 
-
+OpenDIICSU 所接受的资金将会用于项目组的日常开支，包括页面的编辑，修改，增加内容，以及未来可能的网站建设。
 
 OpenDIICSU accepts sponsorship or other support. You can contribute to OpenDIICSU through the following ways:
 
-1. Provide financial support
+1. Provide financial support (funds)
 2. Join the project team and maintain relevant pages for completed or ongoing courses in this major
 3. Provide your own notes in either $\LaTeX format or $Markdown$ format
 4. Provide your own high-quality handwritten notes (scanned copies, PDF files, OneNote files, or image files)
+
+The funds received by OpenDIICSU will be used for the daily expenses of the project team, including page editing, modification, adding content, and website construction (possible in future).
 
 # OpenDIICSU 是否接受监管？Is OpenDIICSU regulated?
 
