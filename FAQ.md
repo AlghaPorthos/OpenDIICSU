@@ -6,9 +6,9 @@ OpenDIICSU is committed to becoming a free, open, and continuously updated knowl
 
 # 如何联系我们（以提供更多资源，汇报错误）？ How to contact us (to provide more resources and report errors)?
 
-您可以向2543035@dundee.ac.uk发送邮件，或者在**Issues**中提出。
+您可以在**Issues**中提出。
 
-You can send an email to 2543035@dundee.ac.uk, or raise it in **Issues**.
+You can raise it in **Issues**.
 
 # OpenDIICSU 不是什么？What cannot OpenDIICSU do?
 
