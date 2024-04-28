@@ -73,7 +73,7 @@ OpenDIICSU accepts sponsorship or other support. You can contribute to OpenDIICS
 
 1. Provide financial support
 2. Join the project team and maintain relevant pages for completed or ongoing courses in this major
-3. Provide your own notes in either $\ Latex $ format or $\ Markdown $ format
+3. Provide your own notes in either $\LaTeX format or $Markdown$ format
 4. Provide your own high-quality handwritten notes (scanned copies, PDF files, OneNote files, or image files)
 
 # OpenDIICSU 是否接受监管？Is OpenDIICSU regulated?
