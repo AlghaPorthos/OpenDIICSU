@@ -35,7 +35,7 @@ $\Delta T$ 注意温度是上升（+）还是下降（-）
 ## 热膨胀
 热膨胀系数是温度每升高一个单位时，物体较原先膨胀的比率。由于物体的大小可以用一个方向的尺寸（长度）或体积衡量，实际应用中，有两种主要的热膨胀系数，分别是：
 
-线性热膨胀系数（coefficient of linear thermal expansion，线胀系数）${\displaystyle \alpha ={\frac {1}{L}}\cdot {\frac {\mathrm {d} L}{\mathrm {d} T}}\approx {\frac {1}{L}}\cdot {\frac {\Delta L}{\Delta T}}}$
+线性热膨胀系数（coefficient of linear thermal expansion，线胀系数）$ \alpha ={\frac {1}{L}}\cdot {\frac {\mathrm {d} L}{\mathrm {d} T}}\approx {\frac {1}{L}}\cdot {\frac {\Delta L}{\Delta T}}$
 
 和体积热膨胀系数(其中下标 $p$ 表示保持压强不变。)
 
@@ -110,7 +110,7 @@ $$H = Ae \sigma T^4$$
 
 斯特藩-玻尔兹曼常数（Stefan–Boltzmann constant）记作  $\sigma= 5.67037442 \times 10^{-8} W/(m^2 \cdot K^4)$ 。
 
-发射面面积（Area of emitting surface）为 $A$ ，表面反射率（Emissivity of surface） $0<e<1$  。 $T$ 为开氏温标
+发射面面积（Area of emitting surface）为 $A$ ，表面反射率（Emissivity of surface） $0<e<1$ 。 $T$ 为开氏温标。
 
 # 物质的分子性质
 
@@ -163,7 +163,7 @@ $$\overline{F_i'} = -\frac{m_0 v_{ix}^2}{l_1},\overline{F_i} = \frac{m_0 v_{ix}^
 
  $N$ 个分子对器壁 $A_1$ 面的平均冲力为
 
-$$\overline{F} = \sum _{i=1}^{N} \overline {F_i} = \frac{m_0}{l_1} {v_{ix}^2} = \frac{m_0N\overline {v_x}^2}{l_1}$$
+$$\overline{F} = \sum_{i=1}^{N} \overline {F_i} = \frac{m_0}{l_1} {v_{ix}^2} = \frac{m_0 N\overline {v_x}^2}{l_1}$$
 
 $$p = \frac{\overline{F}}{A_1} = \frac{m_0N\overline {v_x}^2}{l_1l_2l_3} = \frac{m_0N\overline {v_x}^2}{V}$$
 
