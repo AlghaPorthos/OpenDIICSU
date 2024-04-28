@@ -2,11 +2,28 @@
 
 ## 1. 简要介绍 Brief Introduction
 
-您好，这里是 **Open DIICSU** 项目组，旨在打破专业课的信息壁垒。更多信息将会在日后发布。
+您好，这里是 **Open DIICSU** 项目组，旨在打破专业课的信息壁垒。
 
-Hello, this is the **Open DIICSU** project team, aiming to break down the information barriers of courses. More information will be released in the future.
+Hello, this is the **Open DIICSU** project team, aiming to break down the information barriers of courses. 
 
-## 2. 专业代码 Codes of Each Major
+本网站正在建设中，更多信息将会在日后发布。
+
+This website is under construction and more information will be released in the future.
+
+## 2. 快速链接（按照专业分类）Quick links (categorized by major)
+
+7801土木工程 Civil Engineering
+
+7802计算机科学与技术 Computing
+
+7803机械设计制造及其自动化 Mechnical Engineering
+
+7804交通设备与控制工程 Mechnical Engineering with Transportation
+
+7805数学与应用数学 Applied Mathematics
+
+
+## 3. 专业代码 Codes of Each Major
 
 Open DIICSU项目组提供部分课程的相关信息，并按照MyDundee系统中的序号进行标号。对于中方课程，不进行标号。专业代号如下：
 
@@ -20,9 +37,14 @@ The Open DIICSU project team provides relevant information for some courses, and
 | 7804 | 交通设备与控制工程 | Mechnical Engineering with Transportation | 交设 MT |
 | 7805 | 数学与应用数学 | Applied Mathematics | 应数 AM |
 
-# 3. 各学期各专业课程列表 List of courses for each semester and major
+# 4. 各学期各专业课程列表 List of courses for each semester and major
 
-## 3.1. 第一学年第一学期 Sem. 1 of Year 1
+请注意，不同年级的培养方案可能不同。
+
+Please note that the courses in each semaster may vary among different grades.
+
+
+## 4.1. 第一学年第一学期 Sem. 1 of Year 1
 
 在这个学期，所有专业的课程列表是相同的。
 
@@ -43,7 +65,7 @@ In this semester, the course list for all majors is the same.
 | 【中方课程】思想道德修养与法律基础 | 是 Yes |
 
 
-## 3.2. 第一学年第二学期 Sem. 2 of Year 1
+## 4.2. 第一学年第二学期 Sem. 2 of Year 1
 
 在这个学期，交设、机械专业的课程列表是相同的。
 
@@ -58,10 +80,10 @@ In this semester, the course list of MT and ME are the same.
 | DI12005 - Proof and Number Theory - Pure Maths |   |  | | 是 Yes|
 | DI12006 - Statistics (with English) |  | | | 是 Yes | 
 | DI12008 - Thermodynamics |  | | 是 Yes | | 
+| DI12009 Java Programming (with English) ||是 Yes ||
+| DI12010 Elementary Data Structures and Algorithms ||是 Yes ||
 | DI12011 - Mechanical Engineering Project II |  | | 是 Yes | | 
 | DI12??? - 结构行为与动力学  |是 Yes |||
-| DI12??? 数据结构和算法概论 ||是 Yes ||
-| DI12??? Java程序设计 ||是 Yes ||
 | 【中方课程】工程制图与数字化表达   |是 Yes |||
 | 【中方课程】体育(二) | 是 Yes | 是 Yes | 是 Yes | 是 Yes | 
 | 【中方课程】大学生心理健康教育 | 是 Yes | 是 Yes | 是 Yes | 是 Yes | 
