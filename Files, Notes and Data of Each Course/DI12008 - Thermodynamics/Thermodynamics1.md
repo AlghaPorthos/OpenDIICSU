@@ -49,9 +49,9 @@ $${\displaystyle \gamma ={\frac {1}{V_{0}}}\left({\frac {\partial V}{\partial T}
 
 杨氏模量（Young's modulus），是材料力学中的名词。弹性材料承受正向应力时会产生正向应变，在形变量没有超过对应材料的一定弹性限度时，定义正向应力与正向应变的比值为这种材料的杨氏模量。公式记为:
 
-$$ E={\frac {\sigma }{\varepsilon }}$$
+$$E={\frac {\sigma }{\varepsilon }}$$
 
-其中，$E$ 表示杨氏模量，$\sigma = \frac{F}{A}$  表示正向应力，$\varepsilon = \frac{\Delta L}{L_0}$ 表示正向应变。
+其中， $E$ 表示杨氏模量， $\sigma = \frac{F}{A}$  表示正向应力， $\varepsilon = \frac{\Delta L}{L_0}$ 表示正向应变。
 
 $$\frac{F}{A} = -Y\alpha \Delta T$$
 
