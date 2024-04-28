@@ -35,9 +35,11 @@ $\Delta T$ 注意温度是上升（+）还是下降（-）
 ## 热膨胀
 热膨胀系数是温度每升高一个单位时，物体较原先膨胀的比率。由于物体的大小可以用一个方向的尺寸（长度）或体积衡量，实际应用中，有两种主要的热膨胀系数，分别是：
 
-线性热膨胀系数（coefficient of linear thermal expansion，线胀系数）$\alpha = \frac {1}{L}}\cdot {\frac {\mathrm {d} L}{\mathrm {d} T} \approx \frac {1}{L}}\cdot {\frac {\Delta L}{\Delta T}$
+线性热膨胀系数（coefficient of linear thermal expansion，线胀系数）
 
-和体积热膨胀系数(其中下标 $p$ 表示保持压强不变。)
+$$\alpha = \frac {1}{L}}\cdot {\frac {\mathrm {d} L}{\mathrm {d} T} \approx \frac {1}{L}}\cdot {\frac {\Delta L}{\Delta T}$$
+
+和体积热膨胀系数(其中下标 $p$ 表示保持压强不变。
 
 $${\displaystyle \gamma ={\frac {1}{V_{0}}}\left({\frac {\partial V}{\partial T}}\right)_{p}}$$
 
