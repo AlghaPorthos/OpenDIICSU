@@ -79,7 +79,7 @@ In this semester, the course list of MT and ME are the same.
 | DI12004 - Civil Engineering Project II (with English)  | 英方项目课程 British Project | 是 Yes | | | | 
 | DI12005 - Proof and Number Theory - Pure Maths  | 英方专业课程 British Course |   |  | | 是 Yes|
 | DI12006 - Statistics (with English) | |  | | | 是 Yes | 
-| DI12008 - Thermodynamics || 英方专业课程 British Course   | | 是 Yes | | 
+| DI12008 - Thermodynamics | 英方专业课程 British Course   | | 是 Yes | | |
 | DI12009 - Java Programming (with English) | ||是 Yes ||
 | DI12010 - Elementary Data Structures and Algorithms | ||是 Yes ||
 | DI12011 - Mechanical Engineering Project II | 英方项目课程 British Project |  | | 是 Yes | | 
