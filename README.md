@@ -6,7 +6,7 @@
 
 Hello, this is the **Open DIICSU** project team, aiming to break down the information barriers of courses. More information will be released in the future.
 
-## 2. 各专业课程
+## 2. 专业代码 Codes of Each Major
 
 Open DIICSU项目组提供部分课程的相关信息，并按照MyDundee系统中的序号进行标号。对于中方课程，不进行标号。专业代号如下：
 
@@ -20,23 +20,25 @@ The Open DIICSU project team provides relevant information for some courses, and
 | 7804 | 交通设备与控制工程 | Mechnical Engineering with Transportation | MT |
 | 7805 | 数学与应用数学 | Applied Mathematics | AM |
 
-# 3. 各学期各专业课程列表
+# 3. 各学期各专业课程列表 List of courses for each semester and major
 
-## 3.1. 第一学年第一学期
+## 3.1. 第一学年第一学期 Sem. 1 of Year 1
 
 在这个学期，所有专业的课程列表是相同的。
 
+In this semester, the course list for all majors is the same.
+
 | 课程序号 Labels of courses | 是否开设 CE/CM/ME/MT/AM | 
 | --- | --- | 
-| DI11001 - English for Academic Skills I ( SEM 1 22/23 )| 是 Yes |
-| DI11003 - Project (Civil) ( SEM 1 22/23 )| 是 Yes |
-| DI11006 - Project (Mechanical) ( SEM 1 22/23 )| 是 Yes |
-| DI11005 - Project (Mathematics) ( SEM 1 22/23 )| 是 Yes |
-| DI11004 - Project (Computing) ( SEM 1 22/23 )| 是 Yes |
-| DI11007 - Calculus for Science and Engineering ( SEM 1 22/23 )| 是 Yes |
-| *军事理论| 是 Yes |
-| *军事技能| 是 Yes |
-| *体育(一)| 是 Yes |
-| *新生课| 是 Yes |
-| *思想道德修养与法律基础| 是 Yes |
+| DI11001 - English for Academic Skills I ( SEM 1 22/23 ) | 是 Yes |
+| DI11003 - Project (Civil) ( SEM 1 22/23 ) | 是 Yes |
+| DI11006 - Project (Mechanical) ( SEM 1 22/23 ) | 是 Yes |
+| DI11005 - Project (Mathematics) ( SEM 1 22/23 ) | 是 Yes |
+| DI11004 - Project (Computing) ( SEM 1 22/23 ) | 是 Yes |
+| DI11007 - Calculus for Science and Engineering ( SEM 1 22/23 ) | 是 Yes |
+| 【中方课程】军事理论 | 是 Yes |
+| 【中方课程】军事技能 | 是 Yes |
+| 【中方课程】体育(一) | 是 Yes |
+| 【中方课程】新生课 | 是 Yes |
+| 【中方课程】思想道德修养与法律基础 | 是 Yes |
 
