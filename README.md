@@ -52,7 +52,7 @@ In this semester, the course list of MT and ME are the same.
 | 课程序号 Labels of courses | 是否开设 土木 Offered in CE or not | 是否开设 计科 Offered in CM or not | 是否开设 机械/交设 Offered in ME/MT or not| 是否开设 应数 Offered in AM or not | 
 | --- | --- | --- | --- | --- | 
 | DI11002 - English for Academic Skills II | 是 Yes | 是 Yes | 是 Yes | 是 Yes | 
-| DI12001 - Calculus II | 否 No | 是 Yes | 否 No | 是 Yes | 
+| DI12001 - Calculus II | | 是 Yes | | 是 Yes | 
 | DI12003 - Mechanics | 是 Yes | | 是 Yes | |
 | DI12004 - Civil Engineering Project II (with English) | 是 Yes | | | | 
 | DI12005 - Proof and Number Theory - Pure Maths |   |  | | 是 Yes|
