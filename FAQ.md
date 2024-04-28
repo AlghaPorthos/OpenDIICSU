@@ -26,7 +26,7 @@ OpenDIICSU does not save any historical versions of files / sites, nor does it i
 
 您在未经项目组的批准时，不得发布任何商业或非商业广告。
 
-You are not allowed to publish any commercial or non commercial advertisements without the approval of the project team.
+You are not allowed to publish any commercial or non commercial advertisements without the approval of the **project team**.
 
 ## 5. OpenDIICSU 不是权威机构 OpenDIICSU is not an authoritative organization
 
@@ -58,4 +58,36 @@ Therefore, OpenDIICSU does not provide professional explanations for all concept
 
 According to **Article 23** of _the Regulations on the Management of Undergraduate Student Status at Central South University (discussed and approved at the 14th School Affairs Meeting on June 8, 2017)_, if a student is missing more than one-third of the required amount of experiments, internships, designs, assignments, etc., or is absent by one-third, or fails the in class experiment assessment, the school has the right to cancel their assessment qualification. Students whose assessment qualifications have been cancelled are not allowed to participate in the semester assessment of the course, and their grades will be counted as failing.
 
-# 
+# OpenDIICSU 是否接受赞助或者其他支持？ Does OpenDIICSU accept sponsorship or other support?
+
+OpenDIICSU 接受赞助或者其他支持。您可以通过如下途径为 OpenDIICSU 做出贡献：
+
+1. 提供资金支持
+2. 加入项目组，维护本专业已经完成或者正在进行的课程的相关页面
+3. 提供自己的以 $\Latex$ 格式或者 $\Markdown$ 格式的笔记
+4. 提供自己的高质量的手写笔记（扫描件，或者PDF文件，或者OneNote文件，或者图片文件）
+
+
+
+OpenDIICSU accepts sponsorship or other support. You can contribute to OpenDIICSU through the following ways:
+
+1. Provide financial support
+2. Join the project team and maintain relevant pages for completed or ongoing courses in this major
+3. Provide your own notes in either $\ Latex $ format or $\ Markdown $ format
+4. Provide your own high-quality handwritten notes (scanned copies, PDF files, OneNote files, or image files)
+
+# OpenDIICSU 是否接受监管？Is OpenDIICSU regulated?
+
+目前，OpenDIICSU不接受监管。在未来，OpenDIICSU可能接受以下组织或者个人的监管：
+
+1. 中南大学邓迪国际学院学生工作部
+2. 中南大学邓迪国际学院分团委
+3. 中南大学邓迪国际学院团委功能性学生会
+4. ISAB 信息部
+
+Currently, OpenDIICSU is not subject to regulation. In the future, OpenDIICSU may be subject to supervision by the following organizations or individuals:
+
+1. Student Affairs Department of Dundee International College, Central South University
+2. Dundee International College Branch Youth League Committee of Central South University
+3. Functional Student Union of Dundee International College Youth League Committee, Central South University
+4. ISAB Information Department
