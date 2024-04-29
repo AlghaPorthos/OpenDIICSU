@@ -10,6 +10,12 @@ Hello, this is the **Open DIICSU** project team, aiming to break down the inform
 
 The working languages of this project team include Simplified Chinese (Mandarin) and English.
 
+如果有更多问题，请查看以下链接：
+
+If you have more questions, please refer to the following link:
+
+[常见问题 FAQ](https://github.com/AlghaPorthos/OpenDIICSU/blob/main/FAQ.md)
+
 本网站正在建设中，更多信息将会在日后发布。
 
 This website is under construction and more information will be released in the future.
