@@ -84,12 +84,15 @@ The funds received by OpenDIICSU will be used for the daily expenses of the proj
 
 1. 中南大学邓迪国际学院学生工作部
 2. 中南大学邓迪国际学院分团委
-3. 中南大学邓迪国际学院团委功能性学生会
-4. ISAB 信息部
+3. 中南大学邓迪国际学院学生会
+4. ISAB 主席团
+5. ISAB 工程技术部
 
 Currently, OpenDIICSU is not subject to regulation. In the future, OpenDIICSU may be subject to supervision by the following organizations or individuals:
 
-1. Student Affairs Department of Dundee International College, Central South University
-2. Dundee International College Branch Youth League Committee of Central South University
-3. Functional Student Union of Dundee International College Youth League Committee, Central South University
-4. ISAB Information Department
+1. Student Affairs Department of DIICSU
+2. The Youth League Committee of DIICSU
+3. The Students' Union of DIICSU
+4. ISAB Executive Committee
+5. ISAB Engineering & Technology Department
+   
