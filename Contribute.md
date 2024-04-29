@@ -21,6 +21,4 @@
 1. 违反 [此规定](https://github.com/AlghaPorthos/OpenDIICSU/blob/main/FAQ.md#opendiicsu-%E4%B8%8D%E6%98%AF%E4%BB%80%E4%B9%88what-cannot-opendiicsu-do) 的内容
 2. 笔记不够系统、不够完善
 3. 字迹潦草，难以辨认
-4. 符号体系混乱，或者缺乏必要的解释
-5. 自然语言和数学语言的比例严重失调
-6. 存在广告、引流的内容
+4. 自然语言和数学语言的比例严重失调，例如：a) 符号体系混乱，或者缺乏必要的解释 b) 通篇描述性语言，但是缺乏公式
