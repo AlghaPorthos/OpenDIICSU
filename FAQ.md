@@ -1,3 +1,9 @@
+# FAQ 常见问题
+
+本页面记录了常见问题。我们希望本页面能够尽可能地解决您对本项目的疑问。
+
+This page is a FAQ page. We hope that this page can solve your questions about this project as much as possible.
+
 # OpenDIICSU 是什么？ What can OpenDIICSU do?
 
 OpenDIICSU 致力于成为一个免费开放且持续更新的知识整合站点，其主要服务对象是中南大学邓迪国际学院的学生。
