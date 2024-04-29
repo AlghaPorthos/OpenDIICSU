@@ -30,7 +30,7 @@ This website is under construction and more information will be released in the 
 
 [7804交通设备与控制工程 Mechanical Engineering with Transportation](https://github.com/AlghaPorthos/OpenDIICSU/blob/main/Quick%20links%20of%20each%20major/7804_MT.md)
 
-[7805数学与应用数学 Mathmatics and Applied Mathmatics](https://github.com/AlghaPorthos/OpenDIICSU/blob/main/Quick%20links%20of%20each%20major/7805_AM.md)
+[7805数学与应用数学 Mathematics and Applied Mathematics](https://github.com/AlghaPorthos/OpenDIICSU/blob/main/Quick%20links%20of%20each%20major/7805_AM.md)
 
 
 ## 3. 专业代码 Codes of Each Major
