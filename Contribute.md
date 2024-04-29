@@ -18,7 +18,7 @@
 
 如果笔记存在如下问题，将会被直接拒绝采用：
 
-1. 违反 [https://github.com/AlghaPorthos/OpenDIICSU/blob/main/FAQ.md#opendiicsu-%E4%B8%8D%E6%98%AF%E4%BB%80%E4%B9%88what-cannot-opendiicsu-do](此规定) 的内容
+1. 违反 [此规定](https://github.com/AlghaPorthos/OpenDIICSU/blob/main/FAQ.md#opendiicsu-%E4%B8%8D%E6%98%AF%E4%BB%80%E4%B9%88what-cannot-opendiicsu-do) 的内容
 2. 笔记不够系统、不够完善
 3. 字迹潦草，难以辨认
 4. 符号体系混乱，或者缺乏必要的解释
