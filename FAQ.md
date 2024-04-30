@@ -11,13 +11,6 @@ OpenDIICSU 致力于成为一个免费开放且持续更新的知识整合站点
 OpenDIICSU is committed to becoming a free, open, and continuously updated knowledge integration site, primarily serving students at Dundee International Institute of Central South University.
 
 
-## OpenDIICSU的工作语言包括哪些？ What are the working languages of OpenDIICSU?
-
-本项目组的工作语言包含简体中文（普通话）和英语。
-
-The working languages of this project team include Simplified Chinese (Mandarin) and English.
-
-
 # 如何联系我们（以提供更多资源，汇报错误）？ How to contact us (to provide more resources and report errors)?
 
 您可以在**Issues**中提出。
@@ -92,7 +85,9 @@ OpenDIICSU accepts sponsorship or other support. You can contribute to OpenDIICS
 
 The funds received by OpenDIICSU will be used for the daily expenses of the project team, including page editing, modification, adding content, and website construction (possible in future).
 
-# OpenDIICSU 是否接受监管？Is OpenDIICSU regulated?
+# 规范性问题 Requirements
+
+## OpenDIICSU 是否接受监管？Is OpenDIICSU regulated?
 
 目前，OpenDIICSU不接受监管。在未来，OpenDIICSU可能接受以下组织或者个人的监管：
 
@@ -109,4 +104,17 @@ Currently, OpenDIICSU is not subject to regulation. In the future, OpenDIICSU ma
 3. The Students' Union of DIICSU
 4. ISAB Executive Committee
 5. ISAB Engineering & Technology Department
+
+
+
+## OpenDIICSU的工作语言包括哪些？ What are the working languages of OpenDIICSU?
+
+本项目组的工作语言包含简体中文（普通话）和英语。
+
+The working languages of this project team include Simplified Chinese (Mandarin) and English.
+
+网站的建设者和内容的提供者需要提供**任意一种工作语言** 的内容，而不是**所有工作语言**的内容。但是对于网站的基础内容建设，应当提供基于所有工作语言的内容。
+
+The website builder and content/notes' provider need to provide content in **any** working language, not **all** working languages. However, for the basic content construction of the website, content based on all working languages should be provided.
+
    
