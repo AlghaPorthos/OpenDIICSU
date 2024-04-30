@@ -1,4 +1,4 @@
-# FAQ 常见问题
+# 常见问题 FAQ 
 
 本页面记录了常见问题。我们希望本页面能够尽可能地解决您对本项目的疑问。
 
@@ -9,6 +9,14 @@ This page is a FAQ page. We hope that this page can solve your questions about t
 OpenDIICSU 致力于成为一个免费开放且持续更新的知识整合站点，其主要服务对象是中南大学邓迪国际学院的学生。
 
 OpenDIICSU is committed to becoming a free, open, and continuously updated knowledge integration site, primarily serving students at Dundee International Institute of Central South University.
+
+
+## OpenDIICSU的工作语言包括哪些？ What are the working languages of OpenDIICSU?
+
+本项目组的工作语言包含简体中文（普通话）和英语。
+
+The working languages of this project team include Simplified Chinese (Mandarin) and English.
+
 
 # 如何联系我们（以提供更多资源，汇报错误）？ How to contact us (to provide more resources and report errors)?
 
