@@ -8,3 +8,5 @@ This page provides useful and necessary links for DIICSU students. 本页面为�
 
 [Undergraduate Academic Manage System of CSU 中南大学本科生教务管理系统](http://csujwc.its.csu.edu.cn/)
 
+As requested by the _DIICSU Community_ project team, the prioritized working language for this page is English. 应 _DIICSU Community_ 项目组要求，本页面的首选工作语言为英语。
+﻿
