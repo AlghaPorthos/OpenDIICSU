@@ -116,7 +116,9 @@ The working languages of this project team include Simplified Chinese (Mandarin)
 网站的建设者和内容的提供者需要提供**任意一种工作语言** 的内容，而不是**所有工作语言**的内容。但是对于网站的基础内容建设，应当提供基于所有工作语言的内容。
 
 The website builder and content/notes' provider need to provide content in **any** working language, not **all** working languages. However, for the basic content construction of the website, content based on all working languages should be provided.
-﻿
+
+
+ 
 大多数页面的首选工作语言为简体中文（普通话）。应 DIICSU Community 项目组要求，部分页面的首选工作语言为英语。
 ﻿
 The prioritized working language for most pages is Simplified Chinese (Mandarin). As requested by the DIICSU Community project team, the prioritized working language for some pages will be English.
