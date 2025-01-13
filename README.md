@@ -1,4 +1,4 @@
-# OpenDIICSU
+# 开放的中南大学邓迪国际学院 / 查查粉丝 社群 OpenDIICSU / Zhazha Fans Community 
 
 ## 1. 简要介绍 Brief Introduction
 
