@@ -108,18 +108,18 @@ In this semester, the course list of MT and ME are the same.
 | --- | --- | --- | --- | --- | --- |
 
 
-| DI21002	Civil Engineering Design Software | | | | |
-| DI21003	Computer Aided Design  | | | | |
-| DI21004	Computer Systems 2A | | | | |
-| DI21005	Discrete Mathematics | | | | |
-| DI21006	Engineering Materials | | | | |
-| DI21007	Fluid Mechanics I | | | | |
-| DI21008	Introduction to Programming | | | | |
-| DI21009 	Mathematics 2A | | | | |
-| DI21010	Mathematics for Engineers I | | | | |
-| DI21011	Multi-paradigm Programming & Data Structures | | | | |
-| DI21012	ThermodynamicsⅡ | | | | |
-| DI21013	Mathematical Logic in Computing | | | | |
+| DI21002	Civil Engineering Design Software | | | | | |
+| DI21003	Computer Aided Design  | | | | | |
+| DI21004	Computer Systems 2A | | | | | |
+| DI21005	Discrete Mathematics | | | | | |
+| DI21006	Engineering Materials | | | | | |
+| DI21007	Fluid Mechanics I | | | | | |
+| DI21008	Introduction to Programming | | | | | |
+| DI21009 	Mathematics 2A | | | | | |
+| DI21010	Mathematics for Engineers I | | | | | |
+| DI21011	Multi-paradigm Programming & Data Structures | | | | | |
+| DI21012	ThermodynamicsⅡ | | | | | |
+| DI21013	Mathematical Logic in Computing | | | | | |
 
 | 计算机辅助设计 | 英方项目课程 British Project |  | | 是 Yes | | 
 | 流体力学（一） | 英方专业课程 British Course | 是 Yes | | 是 Yes | | 
