@@ -106,6 +106,15 @@ In this semester, the course list of MT and ME are the same.
 
 | 课程序号 Labels of courses |  课程类型 Course Type | 是否开设 土木 Offered in CE or not | 是否开设 计科 Offered in CM or not | 是否开设 机械/交设 Offered in ME/MT or not| 是否开设 应数 Offered in AM or not | 
 | --- | --- | --- | --- | --- | --- |
+| 计算机辅助设计 | 英方项目课程 British Project |  | | 是 Yes | | 
+| 流体力学（一） | 英方专业课程 British Course | 是 Yes | | 是 Yes | | 
+| 工程师数学（一） | 英方专业课程 British Course |  | | 是 Yes | | 
+| 热力学（二） | 英方专业课程 British Course |  | | 是 Yes | | 
+| 微控制器应用 | 英方项目课程 British Project |  | | 是 Yes | | 
+| 计算机程序设计基础（C++） | 中方课程 Chinese Course  | | | |
+| 计算机程序设计实践（C++） | 中方课程 Chinese Course  | | | |
+| 体育（三） | 中方课程 Chinese Course | 是 Yes | 是 Yes | 是 Yes | 是 Yes | 
+| 中国近现代史纲要  | 中方课程 Chinese Course  | 是 Yes | 是 Yes | 是 Yes | 是 Yes | 
 | DI21002	Civil Engineering Design Software | | | | | |
 | DI21003	Computer Aided Design  | | | | | |
 | DI21004	Computer Systems 2A | | | | | |
@@ -118,15 +127,5 @@ In this semester, the course list of MT and ME are the same.
 | DI21011	Multi-paradigm Programming & Data Structures | | | | | |
 | DI21012	ThermodynamicsⅡ | | | | | |
 | DI21013	Mathematical Logic in Computing | | | | | |
-| 计算机辅助设计 | 英方项目课程 British Project |  | | 是 Yes | | 
-| 流体力学（一） | 英方专业课程 British Course | 是 Yes | | 是 Yes | | 
-| 工程师数学（一） | 英方专业课程 British Course |  | | 是 Yes | | 
-| 热力学（二） | 英方专业课程 British Course |  | | 是 Yes | | 
-| 微控制器应用 | 英方项目课程 British Project |  | | 是 Yes | | 
-| 计算机程序设计基础（C++） | 中方课程 Chinese Course  | | | |
-| 计算机程序设计实践（C++） | 中方课程 Chinese Course  | | | |
-| 体育（三） | 中方课程 Chinese Course | 是 Yes | 是 Yes | 是 Yes | 是 Yes | 
-| 中国近现代史纲要  | 中方课程 Chinese Course  | 是 Yes | 是 Yes | 是 Yes | 是 Yes | 
-
 
 
